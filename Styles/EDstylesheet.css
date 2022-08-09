@@ -1,0 +1,103 @@
+body {
+    background: url("img/background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.blocknavigate {
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+
+.navigate {
+    font-size: 22px;
+    color: black;
+    margin: 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding-inline: 10px;
+}
+
+h1 {
+    font-family: Arial, serif;
+    font-size: 32px
+}
+
+.education {
+    position: absolute;
+    top: 50px;
+    left: 530px;
+    width: 200px;
+    height: 80px;
+    text-align: center;
+}
+
+.GlobalLogic {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.LocalCoding {
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.Kyiv {
+    position: absolute;
+    top: 600px;
+    left: 200px;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+.Odessa {
+    position: absolute;
+    top: 600px;
+    left: 800px;
+    width: 200px;
+    height: 350px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bolder;
+}
+
+
+
+#mail {
+    font-size: 22px;
+    font-family: Arial, serif;
+    color: black;
+}
+#mobile {
+    font-size: 22px;
+    font-family: Arial, serif;
+    color: black;
+}
+.contact {
+    position: absolute;
+    top: 1100px;
+    left: 250px;
+    width: 800px;
+    height: 100px;
+}
+
+
+
+
+
